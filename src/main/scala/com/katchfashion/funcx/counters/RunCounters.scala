@@ -2,7 +2,6 @@ package com.katchfashion.funcx.counters
 
 object RunCounters extends App {
 
-//  val counter = Counter(7)
   println(Counter(7).inc.count)
   println(Counter().inc.count)
 

@@ -1,6 +1,6 @@
 package com.katchfashion.funcx.cats
 
-case class Cat(colour: String, food: String)
+case class Cat(name: String, colour: String, food: String)
 //class Cat(val colour: String, val food: String) {
 //def info = s"The Feline colour $colour and eats $food"
 
